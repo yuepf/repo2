@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-3333test connect.txt
-=======
-123test connect.txt
->>>>>>> 81d2989c0169f2a7c409431fb872f3cbba3234ca
